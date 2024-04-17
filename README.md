@@ -1,4 +1,4 @@
-# star-wars-api
+# Star Wars API
 
 ## Overall Goal
 Interact with the [Star Wars API](https://swapi.dev/) by making requests and manipulating responses using Python
@@ -36,7 +36,6 @@ Residents:
 | Name | Height | Mass | BMI | Birth Year |
 |------|--------|------|-----|------------|
 |   Luke Skywalker  |    172    |   77   |  0.02   |     19BBY       |
-|------|--------|------|-----|------------|
 | ...  |   ...  |  ... | ... |     ...    |
 
 
